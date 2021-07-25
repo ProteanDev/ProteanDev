@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-About me:
+### About me
 
 An independent thinker who approaches problems with a rigorous, rational and systematic mind. And with my curiosity, persistence, irreverence and logic, I tend to find innovative solutions to complex problems.
 
@@ -15,6 +15,11 @@ I tend to be protective and pragmatic. And my friends and family find me innovat
 I work best in any environment that gives Equal Opportunity, Diversity and Non-Discriminatory.
 
 I can also learn really fast if I wanted to or if given the chance.
+
+### Contact me
+
+https://www.linkedin.com/in/christiandp/
+
 
 <!--
 **ProteanDev/ProteanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
