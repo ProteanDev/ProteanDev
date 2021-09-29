@@ -1,4 +1,4 @@
-### Hi there, my name is Christian - aka ProteanDev 👋
+### Hi there, my name is Christian Dela Peña, Startup Hero, and I am also known in the Tech World as ProteanDev 👋
 
 ## I'm a Frontend Developer turned Full Stack
 
@@ -22,7 +22,7 @@ I can also learn really fast if I wanted to or if given the chance.
 
 ### Connect with me:
 
-[<img align="left" alt="ProteanDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ProteanDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.16.0/icons/linkedin.svg" />][linkedin]
 
 <br />
 
