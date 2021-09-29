@@ -1,4 +1,4 @@
-### Hi there, my name Christian - aka ProteanDev 👋
+### Hi there, my name is Christian - aka ProteanDev 👋
 
 ## I'm a Frontend Developer turned Full Stack
 
