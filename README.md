@@ -1,14 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Christian D. - aka ProteanDev 👋
 
-### About me
+## I'm a Frontend Developer turned Full Stack
 
-An independent thinker who approaches problems with a rigorous, rational and systematic mind. And with my curiosity, persistence, irreverence and logic, I tend to find innovative solutions to complex problems.
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate with other creators
+- ⚡ Fun fact: I play table top games
 
-I tend to be bold, assertive and hard working. I'm good with details, particularly technical details, and I enjoy talking about my work with others.
+An independent thinker who approaches problems with a rigorous, rational and systematic mind. And with my curiosity, persistence, irreverence and logic, I tend to find innovative solutions to complex problems. 
 
-I am highly loyal to friends and family. And I like to share the status and other perquisites my excellent work has bestowed on me with those who are close to me.
+I tend to be bold, assertive and hard working. I'm good with details, particularly technical details, and I enjoy talking about my work with others. 
 
-Although I'm good with people and enjoy being part of a stable and secure social network, I easily spend time alone, pursuing my own projects and goals.
+I am highly loyal to friends and family. And I like to share the status and other perquisites my excellent work has bestowed on me with those who are close to me. 
+
+Although I'm good with people and enjoy being part of a stable and secure social network, I easily spend time alone, pursuing my own projects and goals. 
 
 I tend to be protective and pragmatic. And my friends and family find me innovative and interesting to be with.
 
@@ -16,22 +20,29 @@ I work best in any environment that gives Equal Opportunity, Diversity and Non-D
 
 I can also learn really fast if I wanted to or if given the chance.
 
-### Contact me
+### Connect with me:
 
-https://www.linkedin.com/in/christiandp/
+[<img align="left" alt="ProteanDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 
-<!--
-**ProteanDev/ProteanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools:
 
-Here are some ideas to get you started:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Next JS" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+[linkedin]: https://www.linkedin.com/in/christiandp
