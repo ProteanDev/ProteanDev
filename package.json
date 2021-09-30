@@ -5,9 +5,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
+    "build-and-export": "next build && next export",
     "start": "next start",
     "lint": "next lint",
-    "export": "next export",
     "test": "NODE_ENV=test jest --watch --runInBand --detectOpenHandles"
   },
   "dependencies": {
