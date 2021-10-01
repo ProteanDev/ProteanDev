@@ -1,6 +1,6 @@
 ### Hi there, my name is Christian Dela Peña, Startup Hero, and I am also known in the Tech World as ProteanDev 👋
 
-## I'm a Frontend Developer turned Full Stack
+## I'm a Seasoned Frontend Developer turned Full Stack
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other creators
