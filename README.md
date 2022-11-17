@@ -1,6 +1,5 @@
 ## Quick Info
 
-- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other creators
 - ⚡ Fun fact: I play table top games
 
