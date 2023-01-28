@@ -3,19 +3,7 @@
 - 👯 I’m looking to collaborate with other creators
 - ⚡ Fun fact: I play table top games
 
-An independent thinker who approaches problems with a rigorous, rational and systematic mind. And with my curiosity, persistence, irreverence and logic, I tend to find innovative solutions to complex problems. 
-
-I tend to be bold, assertive and hard working. I'm good with details, particularly technical details, and I enjoy talking about my work with others. 
-
-I am highly loyal to friends and family. And I like to share the status and other perquisites my excellent work has bestowed on me with those who are close to me. 
-
-Although I'm good with people and enjoy being part of a stable and secure social network, I easily spend time alone, pursuing my own projects and goals. 
-
-I tend to be protective and pragmatic. And my friends and family find me innovative and interesting to be with.
-
-I work best in any environment that gives Equal Opportunity, Diversity and Non-Discriminatory.
-
-I can also learn really fast if I wanted to or if given the chance.
+I am a highly analytical and independent individual who approaches challenges with a logical and systematic mindset. My innate curiosity and determination, coupled with my irreverent yet rational perspective, allows me to consistently devise innovative solutions to complex problems. I am known for my boldness, assertiveness and strong work ethic, as well as my proficiency in technical details. I relish the opportunity to discuss my work with others and am deeply loyal to my friends and family. I am also known for my ability to balance a strong sense of individuality with a desire to be part of a stable and secure social network. I am protective and pragmatic in my approach, and those close to me view me as innovative and intellectually stimulating. I thrive in environments that promote equal opportunity, diversity, and am able to learn quickly when given the opportunity.
 
 ### Connect with me:
 
