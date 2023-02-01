@@ -32,4 +32,4 @@ I am a highly analytical and independent individual who approaches challenges wi
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/christiandp
+[linkedin]: https://www.linkedin.com/in/proteandev
